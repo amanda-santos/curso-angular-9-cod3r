@@ -1,19 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Smart TV Samsung 43'",
+      "price": "1899.99",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 120000.89
-    },
-    {
-      "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Smartphone Samsung A10",
+      "price": "789.99",
+      "id": 2
     }
   ]
 }

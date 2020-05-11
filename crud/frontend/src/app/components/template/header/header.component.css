@@ -7,6 +7,7 @@
   display: flex;
   align-items: center;
   text-decoration: none;
+  color: rgba(0, 0, 0, 0.692);
 }
 
 .header .logo {
